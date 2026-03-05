@@ -1,5 +1,7 @@
 dataloader.py was written by Gemini 3 Flash, training plots by Claude 4.5 Opus. 
 
+A small transformer model taking SMILES strings as input and HOMO-LUMO gap as output from the QM9 dataset, designed for future interpretability project.
+
 Project log
 
 26 Dec - created dataloader, implemented transformer architecture
